@@ -2,7 +2,7 @@ TrainDJ01
 ====
 [BSoD Version 2.0](http://bsod.fukuchilab.org/)で使用したUnityアセット一式。
 
-* ![https://farm1.staticflickr.com/343/19826872093_beececb933.jpg](https://farm1.staticflickr.com/343/19826872093_beececb933.jpg)
+* ![https://farm4.staticflickr.com/3685/20260383240_f8b9541795.jpg](https://farm4.staticflickr.com/3685/20260383240_f8b9541795.jpg)
 
 memo
 ----
@@ -38,7 +38,7 @@ Unity Editorの"Window"->"Reaktion"を開き、表示されるUIから操作す�
 
 screen
 ----
-* ![]()
+* ![https://farm4.staticflickr.com/3705/19825959254_67a81fff6c_z.jpg](https://farm4.staticflickr.com/3705/19825959254_67a81fff6c_z.jpg)
 
 
 libraries
