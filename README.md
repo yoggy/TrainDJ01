@@ -16,6 +16,7 @@ memo
   * プロパティ"target Directory"の項目
 * (5) ビルドしてexeを作成
 * (6) exeを実行中にFキーを押すとフルスクリーン表示切り替え
+* (7) 演奏中はスリープしないように[Caffeine](http://www.zhornsoftware.co.uk/caffeine/)などを動かしておくと吉
 
 movies
 ----
