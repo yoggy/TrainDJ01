@@ -14,6 +14,8 @@ memo
 * (3) TrainDJ01/TrainDJ01.sceneがシーン本体なのでこれを開く
 * (4) MainMovieControllerとTransitionMovieControllerに映像素材があるディレクトリを設定
   * プロパティ"target Directory"の項目
+* (5) ビルドしてexeを作成
+* (6) exeを実行中にFキーを押すとフルスクリーン表示切り替え
 
 movies
 ----
@@ -53,3 +55,13 @@ libraries
 
   * KinoFringe
     * https://github.com/keijiro/KinoFringe
+
+inspired by
+----
+* The Chemical Brothers - Star Guitar
+  * https://www.youtube.com/watch?v=0S43IwBF0uM
+
+* HIMATSUBUSHI
+  * http://archive.j-mediaarts.jp/festival/2011/art/works/15a_himatsubushi/
+  * https://www.youtube.com/watch?v=Ps_U2BYWSn8
+
