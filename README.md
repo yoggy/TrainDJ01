@@ -4,6 +4,8 @@ TrainDJ01
 
 * ![https://farm4.staticflickr.com/3685/20260383240_f8b9541795.jpg](https://farm4.staticflickr.com/3685/20260383240_f8b9541795.jpg)
 
+DJが曲をつなぐように、車窓の風景をどんどんつないでいくと面白いのか？と思い作成した実験映像システム。
+
 memo
 ----
 * (1) 動画の再生に必要なLAVFilterをインストールしておく
