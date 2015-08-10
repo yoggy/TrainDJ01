@@ -64,10 +64,12 @@ inspired by
 * The Chemical Brothers - Star Guitar
   * https://www.youtube.com/watch?v=0S43IwBF0uM
 
+* ヨーロッパの車窓だけ
+  * http://www.twellv.co.jp/event/shasou/
+
 * HIMATSUBUSHI
   * http://archive.j-mediaarts.jp/festival/2011/art/works/15a_himatsubushi/
   * https://www.youtube.com/watch?v=Ps_U2BYWSn8
 
-* ヨーロッパの車窓だけ
-  * http://www.twellv.co.jp/event/shasou/
-
+* とんかつDJアゲ太郎 第20皿
+  * http://plus.shonenjump.com/rensai_detail.html?item_cd=SHSA_JP01PLUS00000007_57
