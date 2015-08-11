@@ -20,16 +20,9 @@ memo
 * (6) exeを実行中にFキーを押すとフルスクリーン表示切り替え
 * (7) 演奏中はスリープしないように[Caffeine](http://www.zhornsoftware.co.uk/caffeine/)などを動かしておくと吉
 
-movies
+screen
 ----
-映像素材はMP4ファイルとJPEGファイルをセットで用意する必要があります。
-JPEGファイルは"動画ファイル名.mp4"+".jpg"という名前を設定しておきます。
-
-* ![https://farm1.staticflickr.com/324/19826612163_f292133b8d.jpg](https://farm1.staticflickr.com/324/19826612163_f292133b8d.jpg)
-
-JPEGファイルは[cv_breath_one](https://github.com/yoggy/cv_breath_one)を使ってスリットスキャン画像を作成しておきます。この画像は動画を選択する際のサムネイル表示に使われます。
-
-* ![https://farm4.staticflickr.com/3833/19826695963_a9eb42d078_z.jpg](https://farm4.staticflickr.com/3833/19826695963_a9eb42d078_z.jpg)
+* ![https://farm4.staticflickr.com/3705/19825959254_67a81fff6c_z.jpg](https://farm4.staticflickr.com/3705/19825959254_67a81fff6c_z.jpg)
 
 MIDI mapping
 ----
@@ -41,9 +34,27 @@ Unity Editorの"Window"->"Reaktion"を開き、表示されるUIから操作す�
 
 * ![https://farm1.staticflickr.com/327/20259863788_d1a67ab289_n.jpg](https://farm1.staticflickr.com/327/20259863788_d1a67ab289_n.jpg)
 
-screen
+movies
 ----
-* ![https://farm4.staticflickr.com/3705/19825959254_67a81fff6c_z.jpg](https://farm4.staticflickr.com/3705/19825959254_67a81fff6c_z.jpg)
+TrainDJ01における動画の再生は、アナログDJのようにA-B2つの動画を再生しておき、A-Bクロスフェーダーを使って車窓風景をDJのようにつないでいくプレイスタイルを踏襲しています。
+
+MainMovieControllerにはA-B共通で使用する動画を設定しておきます。
+TransitionMovieControllerに設定する動画は、電車が通りすぎる動画の再生など、シーンの切り替え時に使用するトランジション動画を再生するために使用します。
+
+映像素材はMP4ファイルとJPEGファイルをセットで用意する必要があります。
+JPEGファイルは"動画ファイル名.mp4"+".jpg"という名前を設定しておきます。
+
+* ![https://farm1.staticflickr.com/324/19826612163_f292133b8d.jpg](https://farm1.staticflickr.com/324/19826612163_f292133b8d.jpg)
+
+JPEGファイルは[cv_breath_one](https://github.com/yoggy/cv_breath_one)を使ってスリットスキャン画像を作成しておきます。この画像は動画を選択する際のサムネイル表示に使われます。
+
+* ![https://farm4.staticflickr.com/3833/19826695963_a9eb42d078_z.jpg](https://farm4.staticflickr.com/3833/19826695963_a9eb42d078_z.jpg)
+
+
+[BSoD Version 2.0](http://bsod.fukuchilab.org/)で使用したMainMovieController用動画とTransitionMovieController用動画は以下のURLに置いています。
+
+* [車窓風景動画(MainMovieController用)](http://www.sabamiso.net/yoggy/traindj01_movies.zip)
+* [トランジション動画(TransitionMovieController用)](http://www.sabamiso.net/yoggy/traindj01_transitions.zip)
 
 
 libraries
