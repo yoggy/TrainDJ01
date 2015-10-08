@@ -84,3 +84,7 @@ inspired by
 
 * とんかつDJアゲ太郎 第20皿
   * http://plus.shonenjump.com/rensai_detail.html?item_cd=SHSA_JP01PLUS00000007_57
+
+* 8時だョ!全員集合のコント - 泥棒コント
+  * https://ja.wikipedia.org/wiki/8%E6%99%82%E3%81%A0%E3%83%A7!%E5%85%A8%E5%93%A1%E9%9B%86%E5%90%88%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88#.E6.B3.A5.E6.A3.92.E3.82.B3.E3.83.B3.E3.83.88
+
