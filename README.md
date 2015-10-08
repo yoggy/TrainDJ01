@@ -88,3 +88,9 @@ inspired by
 * 8時だョ!全員集合のコント - 泥棒コント
   * https://ja.wikipedia.org/wiki/8%E6%99%82%E3%81%A0%E3%83%A7!%E5%85%A8%E5%93%A1%E9%9B%86%E5%90%88%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88#.E6.B3.A5.E6.A3.92.E3.82.B3.E3.83.B3.E3.83.88
 
+
+Copyright and license
+----
+Copyright (c) 2015 yoggy
+
+Released under the [MIT license](LICENSE.txt)
