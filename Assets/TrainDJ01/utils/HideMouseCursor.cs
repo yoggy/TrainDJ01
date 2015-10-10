@@ -11,6 +11,9 @@ public class HideMouseCursor : MonoBehaviour {
 	}
 
 	void OnGUI() {
-		Cursor.visible = false;
+#if UNITY_EDITOR
+#else
+        Cursor.visible = false;
+#endif
 	}
 }
